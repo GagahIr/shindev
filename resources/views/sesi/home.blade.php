@@ -5,6 +5,5 @@
 @include('/components/carousel')
 @include('/components/konten1')
 @include('/components/carouselproduk')
-@include('/components/carouselcard')
 @include('/components/footer')
 @endsection
