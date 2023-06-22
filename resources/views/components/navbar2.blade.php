@@ -9,7 +9,7 @@
                 </svg> </button>
             </button>
             <div id="dropdownmenu"
-                class=" transition-all duration-300 ease-in-out absolute hidden -left-7 top-11 bg-[#F68C4A] rounded-lg ">
+                class=" transition-transform duration-700 absolute hidden -left-7 top-11 bg-[#F68C4A] rounded-lg ">
                 <div class=" w-28 text-center py-2 text-white border-b-2 border-black/20">
                     <a class=" " href="">Items 1</a>
                 </div>
